@@ -30,5 +30,6 @@
 
 ## 📫 Contact
 
-* Email: chiraggodsoneh@gmail.com(mailto:chiraggodsoneh@gmail.com)
+* Email: chiraggodsoneh@gmail.com
+  
 
