@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Chirag
 
-<!--
-**chiraggodson/chiraggodson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Building real-world systems for textile & manufacturing businesses
 
-Here are some ideas to get you started:
+## 🧠 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 📱 Flutter Apps (Android, iOS, Windows)
+* ⚙️ Backend Systems (Node.js + PostgreSQL)
+* 🏭 Workflow Automation (Knitting / Yarn / Jobwork)
+
+## 🚧 Current Project
+
+**Knit Jobwork Management System**
+
+* Machine tracking dashboard
+* Yarn ledger system
+* Party & production tracking
+* Role-based access (Admin/User)
+
+## 🛠 Tech Stack
+
+* Flutter
+* Node.js (Express)
+* PostgreSQL
+* TypeORM
+
+## 📈 Philosophy
+
+> Build systems that people actually use daily.
+
+## 📫 Contact
+
+* Email: chiraggodsoneh@gmail.com(mailto:your@email.com)
+
