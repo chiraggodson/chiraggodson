@@ -1,35 +1,44 @@
 # 👋 Hi, I'm Chirag
 
-🚀 Building real-world systems for textile & manufacturing businesses
+🚀 I build real-world systems for textile & manufacturing businesses
+
 
 ## 🧠 What I Do
 
-* 📱 Flutter Apps (Android, iOS, Windows)
-* ⚙️ Backend Systems (Node.js + PostgreSQL)
-* 🏭 Workflow Automation (Knitting / Yarn / Jobwork)
+* 📱 Cross-platform apps using Flutter (Android, iOS, Windows)
+* ⚙️ Backend systems using Node.js & PostgreSQL
+* 🏭 Digitizing factory workflows
 
-## 🚧 Current Project
 
-**Knit Jobwork Management System**
+## 🧵 Flagship Project — Knit Jobwork Management System
 
-* Machine tracking dashboard
-* Yarn ledger system
-* Party & production tracking
-* Role-based access (Admin/User)
+A production-ready system designed for knitting factories to manage operations digitally.
+
+### 🔥 Key Features
+
+* Machine status tracking (Running, Cleaning, Stopped)
+* Yarn ledger system (Inward / Issued / Return / Balance)
+* Party & order management
+* Role-based access control (Admin/User)
+
 
 ## 🛠 Tech Stack
 
-* Flutter
-* Node.js (Express)
-* PostgreSQL
-* TypeORM
+Flutter • Node.js • PostgreSQL • TypeORM
 
-## 📈 Philosophy
 
-> Build systems that people actually use daily.
+## 🎯 Vision
+
+> Replace manual factory processes with simple, scalable software systems.
+
+
+## 📈 Current Focus
+
+* Yarn Ledger Reports
+* Dashboard UI improvements
+* Backend optimization
+
 
 ## 📫 Contact
 
 * Email: chiraggodsoneh@gmail.com
-  
-
